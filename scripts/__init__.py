@@ -1,0 +1,1 @@
+# Scripts package for jewelry store scraping 
