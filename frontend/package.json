@@ -44,4 +44,6 @@
         "eslint-plugin-react-refresh": "^0.4.3",
         "vitest": "^0.34.6",
         "@testing-library/react": "^13.4.0",
-        "@testing-li
+        "@testing-library/jest-dom": "^5.16.5"
+    }
+}
