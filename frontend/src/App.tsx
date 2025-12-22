@@ -1,3 +1,8 @@
+/**
+ * Know Your Local Offers - Frontend Application
+ * Main React component for the local business offers discovery platform
+ * Supports text chat, voice input, OCR, and multimodal interactions
+ */
 import React, { useState, useRef, useEffect } from 'react';
 import { sendMessage, transcribeAudio, synthesizeSpeech, extractTextFromImage, sendMultimodalMessage } from './api';
 
