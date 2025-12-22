@@ -5,8 +5,9 @@
     "type": "module",
     "description": "Frontend for Know Your Local Offers - AI-powered local business discovery platform",
     "keywords": ["react", "typescript", "tailwind", "ai", "local-business", "offers"],
-    "author": "Shri Jambhale",
+    "author": "Shri Jambhale <shrijambhale8@gmail.com>",
     "license": "MIT",
+    "homepage": "https://know-your-local-offers.vercel.app",
     "repository": {
         "type": "git",
         "url": "https://github.com/Shriiii01/know-your-local-offers.git"
