@@ -1,3 +1,7 @@
+/**
+ * Tailwind CSS configuration for Know Your Local Offers
+ * Custom styling configuration for the frontend application
+ */
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -5,7 +9,15 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: {
+          50: '#f0f9ff',
+          500: '#0ea5e9',
+          600: '#0284c7',
+        }
+      }
+    },
   },
   plugins: [],
 }
