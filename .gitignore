@@ -397,4 +397,7 @@ coverage/
 .nyc_output/
 
 # Local development
-.local/ 
+.local/
+
+# Python requirements (keep in git for deployment)
+# requirements.txt

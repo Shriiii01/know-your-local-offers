@@ -1,4 +1,8 @@
-// frontend/src/api.ts
+/**
+ * API Client for Know Your Local Offers
+ * Handles all communication with the backend API
+ * Supports chat, OCR, voice, and multimodal interactions
+ */
 
 export interface ChatResponse {
   response: string;
