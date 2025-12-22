@@ -1,3 +1,7 @@
+"""
+Voice Handler for Know Your Local Offers
+Handles speech-to-text and text-to-speech conversions
+"""
 import os
 import io
 from openai import OpenAI
