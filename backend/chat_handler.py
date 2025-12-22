@@ -1,3 +1,7 @@
+"""
+Chat Handler for Know Your Local Offers
+Handles AI-powered chat interactions for local business offers discovery
+"""
 import os
 from openai import OpenAI
 from typing import Dict, List

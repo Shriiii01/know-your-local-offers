@@ -1,3 +1,7 @@
+"""
+OCR Handler for Know Your Local Offers
+Handles text extraction from images using EasyOCR
+"""
 import easyocr
 import numpy as np
 from PIL import Image
