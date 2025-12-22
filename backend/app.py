@@ -1,3 +1,8 @@
+"""
+Know Your Local Offers - Backend API
+Main FastAPI application for handling local business offers discovery
+Supports chat, OCR, voice, and WhatsApp integration
+"""
 import os
 import io
 from fastapi import FastAPI, UploadFile, File, HTTPException, Form, Request
@@ -14,6 +19,7 @@ from voice_handler import VoiceHandler
 from supabase_client import supabase
 from database_service import DatabaseService
 
+# Load environment variables
 load_dotenv()
 
 chat_handler  = ChatHandler()
