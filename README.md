@@ -2,11 +2,13 @@
 
 > **Your AI-Powered Local Business Discovery Platform**
 
-A comprehensive full-stack application that helps users discover local offers, deals, and business information through an intelligent AI assistant. Built with FastAPI, React, and advanced AI capabilities including voice recognition, OCR, and multilingual support.![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://python.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI0104.1-green.svg)](https://fastapi.tiangolo.com)
-[![React](https://img.shields.io/badge/React-18.20lue.svg)](https://reactjs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.22lue.svg)](https://typescriptlang.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-34.17382svg)](https://tailwindcss.com)
+A comprehensive full-stack application that helps users discover local offers, deals, and business information through an intelligent AI assistant. Built with FastAPI, React, and advanced AI capabilities including voice recognition, OCR, and multilingual support.
+
+![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com)
+[![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue.svg)](https://typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-blue.svg)](https://tailwindcss.com)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg)](https://openai.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Shriiii1now-your-local-offers?style=social)](https://github.com/Shriiii1now-your-local-offers/stargazers)
