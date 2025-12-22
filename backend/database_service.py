@@ -1,3 +1,7 @@
+"""
+Database Service for Know Your Local Offers
+Handles all database operations for offers, cities, and categories
+"""
 from supabase_client import supabase
 from typing import List, Dict, Optional
 import asyncio
