@@ -1,3 +1,5 @@
+# Docker Compose configuration for Know Your Local Offers
+# Defines backend, frontend, and Redis services
 version: '3.8'
 
 services:
