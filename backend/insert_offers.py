@@ -1,3 +1,7 @@
+"""
+Insert Offers Script
+Utility script to insert sample jewelry offers into the database
+"""
 import os
 from supabase import create_client
 from dotenv import load_dotenv
