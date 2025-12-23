@@ -1,3 +1,7 @@
+"""
+Test suite for Know Your Local Offers API
+Tests health checks, chat endpoints, OCR, and voice functionality
+"""
 import pytest
 from fastapi.testclient import TestClient
 from app import app
