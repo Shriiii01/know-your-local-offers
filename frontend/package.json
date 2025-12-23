@@ -20,6 +20,7 @@
         "lint:fix": "eslint src --ext ts,tsx --fix",
         "test": "vitest",
         "test:ui": "vitest --ui",
+        "test:coverage": "vitest --coverage",
         "type-check": "tsc --noEmit"
     },
     "dependencies": {
