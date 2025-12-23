@@ -1,4 +1,5 @@
-# Multi-stage build for production
+# Dockerfile for Know Your Local Offers Backend
+# Multi-stage build for optimized production image
 FROM python:3.12-slim as backend-builder
 
 # Set working directory
